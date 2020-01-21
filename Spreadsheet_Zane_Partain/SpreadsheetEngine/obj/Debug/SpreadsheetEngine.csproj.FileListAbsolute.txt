@@ -1,0 +1,8 @@
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\SpreadsheetEngine\bin\Debug\nunit.framework.dll
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\SpreadsheetEngine\bin\Debug\nunit.framework.pdb
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\SpreadsheetEngine\bin\Debug\nunit.framework.xml
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\bin\Release\TestExpressionTreeConsoleApp.exe.config
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\bin\Release\TestExpressionTreeConsoleApp.exe
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\bin\Release\TestExpressionTreeConsoleApp.pdb
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\bin\Release\nunit.framework.dll
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\bin\Release\SpreadsheetEngine.dll
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\bin\Release\SpreadsheetEngine.pdb
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\bin\Release\nunit.framework.pdb
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\bin\Release\nunit.framework.xml
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\obj\Release\TestExpressionTreeConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\obj\Release\TestExpressionTreeConsoleApp.exe
+C:\Users\ZaneP\Desktop\CompSci\CS321\cs321\Spreadsheet_Zane_Partain\TestExpressionTreeConsoleApp\obj\Release\TestExpressionTreeConsoleApp.pdb
